@@ -1,4 +1,4 @@
-Phinger Compact22 小号高清版
+用于Windows的 Phinger Compact22 小号高清版
 
 原作者：Philipp Schaffrath (phisch)
 来源：https://github.com/phisch/phinger-cursors
